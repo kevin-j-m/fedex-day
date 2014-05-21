@@ -1,2 +1,7 @@
 hello everyone!
+<<<<<<< .merge_file_a10052
 ...who got there first!
+=======
+
+We're all changing this together...how exciting. 
+>>>>>>> .merge_file_a04748
